@@ -9,3 +9,4 @@ Targo bank
 Polaris bank
 Cherry bank
 Satander bank
+swiss bank
