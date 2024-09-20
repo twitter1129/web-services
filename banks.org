@@ -7,3 +7,4 @@ First bank
 unity bank
 Polaris bank
 Satander bank
+Commertz bank
