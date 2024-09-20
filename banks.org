@@ -8,3 +8,4 @@ unity bank
 Polaris bank
 Satander bank
 Commertz bank
+Union bank
