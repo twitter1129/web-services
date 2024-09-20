@@ -8,3 +8,4 @@ unity bank
 Targo bank
 Polaris bank
 Cherry bank
+Satander bank
