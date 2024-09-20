@@ -7,4 +7,4 @@ First bank
 unity bank
 Targo bank
 Polaris bank
-
+Cherry bank
