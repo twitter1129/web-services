@@ -6,3 +6,4 @@ deploy to staging env
 echo good job
 Tested and accepted
 Introducing python application v2.0
+Python application v2.0 rejected by client QA team"
