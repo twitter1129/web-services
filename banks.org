@@ -6,3 +6,5 @@ deployment 4
 First bank
 unity bank
 Targo bank
+Polaris bank
+
