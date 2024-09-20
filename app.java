@@ -9,3 +9,4 @@ echo END
 NEW author: JAMES ONU
 Welcome James Onu
 First script by James
+Thhank you
