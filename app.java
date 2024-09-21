@@ -4,5 +4,6 @@
 #author: ONU
 #This script has only READ access to non team members
 #app name=$name
-echo EN
-Car services automatedD
+echo END
+Car services automated
+  Bugs removed  and saved
