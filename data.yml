@@ -1,0 +1,3 @@
+#!/bin/bash
+echo Student names
+James, Michael, David
