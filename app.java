@@ -1,4 +1,4 @@
-#!/bin/bash
+i#!/bin/bash
 #This code is for web application
 #make use of variables and dynamic variables
 #author: ONU
@@ -9,4 +9,4 @@ echo END
 NEW author: JAMES ONU
 Welcome James Onu
 First script by James
-Thhank you
+Thank you LANDMARK TECHNOLOGY
