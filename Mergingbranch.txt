@@ -1,3 +1,9 @@
+
+
+
+BRANCHING STRATGEY
+
+
 MERGING CODES FROM SECONDARY BRANCH TO MASTER USING COMMAND LINE
 
 
@@ -20,3 +26,19 @@ TO DELETE BRANCH IN LOCAL  REPO AND BRANCH IN REMOTE SERVER
 1. git branch -d ( to delete a branch on a local repo)
 2. git push -d tt dev ( To delete branch on remote server)
  “ git push -d repo url dev"
+
+
+
+BACKING UP IN GITHUB
+
+ Assuming you are developing and yo receive an urgent request to perfom a specific task. to back your codes up, run the 
+1. git stash this backs up your untracked codes
+
+2. git stash list: This list all your backed up untracked codes
+
+3. git stash apply this bring back the codes to your working area
+
+4.git stash drop stash@{0} will delete the backed up file with WIP index {0}
+
+5. git stash pop stash@{5} will apply the 5th backup to the working area  and delete the backup after applying it on the working area.
+
