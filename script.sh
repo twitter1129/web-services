@@ -1,13 +1,12 @@
 #!/bin/bash
 echo list of developers
 echo Ade, Jmaes, Shuabu, Bush
-<<<<<<< Updated upstream
+Updated upstream
 echo End of stream 1
-echo stream2 begings
+echo stream2 begins
 
 Ifeanyi
 odera
 shakurans
-=======
-echo 
->>>>>>> Stashed changes
+echo end of stream 2
+
