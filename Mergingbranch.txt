@@ -1,0 +1,32 @@
+MERGING CODES FROM SECONDARY BRANCH TO MASTER USING COMMAND LINE
+
+
+If you want to merge your branch to master on remote, follow the below steps:
+
+1. on the newly created branch ( dev branch) where you are currently working, push the edited   codes to the remote using git push. 
+2. run git push origin dev ( push from the Local repo to the dev branch in  Github)
+3. switch to master branch
+4. On the master branch : run git pull tt master ( To pull the edited codes from the local Repo to the master branch in Github)
+5. on the master branch : run  git diff  dev ( to know the difference in the master and dev branch. if it is okay, you continue)
+  6. On the master branch : run git merge dev ( To merge the dev and master branch
+  7. once the merge is done, 
+  8. On the master branch :  run git push tt master ( To push the codes from Local repo to the master  branch in Github)
+
+
+
+
+TO DELETE BRANCH IN LOCAL  REPO AND BRANCH IN REMOTE SERVER
+
+1. git branch -d ( to delete a branch on a local repo)
+2. git push -d tt dev ( To delete branch on remote server)
+ “ git push -d repo url dev"
+
+
+
+
+
+1. push your branch say 'br-1' to remote using git push origin br-1.
+2. switch to master branch on your local repository using git checkout master.
+3. update local master with remote master using git pull origin master.
+4. merge br-1 into local master using git merge br-1. This may give you conflicts which need to be resolved and changes committed before moving further.
+5. Once merge of br-1 to master on local is committed, push local master to remote master using git push origin master.
