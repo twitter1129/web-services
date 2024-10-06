@@ -5,3 +5,5 @@ This script will help monitor systems
 WELCOME BACK
 adddynamics
 dynatrace
+End of script
+Bugs removed
