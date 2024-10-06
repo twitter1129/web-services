@@ -2,3 +2,4 @@
 #username=$user
 #salary=$salary
 End of script
+csript written Simon Legah
